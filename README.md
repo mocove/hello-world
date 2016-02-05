@@ -6,3 +6,11 @@ This is another line on my readme.
 Why doesn't this have *markup*?
 
 Oh, I guess it actually *has* markup. Sweet!
+
+My headline
+===
+
+This is a list of the contents:
+- Intro
+- Contents
+- So forth
