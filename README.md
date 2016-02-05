@@ -4,3 +4,5 @@ My hello world repository from this guide: https://guides.github.com/activities/
 This is another line on my readme.
 
 Why doesn't this have *markup*?
+
+Oh, I guess it actually *has* markup. Sweet!
