@@ -16,3 +16,5 @@ This is a list of the contents:
 - So forth
 
 #New text from Chrome Dev Editor!
+
+## Added a paragraph in the index.html.
